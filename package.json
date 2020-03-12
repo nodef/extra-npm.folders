@@ -1,0 +1,25 @@
+{
+  "name": "@extra-npm/folders",
+  "version": "0.0.1",
+  "description": "Folder structures used by NPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-npm.folders.git"
+  },
+  "keywords": [
+    "extra",
+    "npm",
+    "folder",
+    "structure"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodef/extra-npm.folders/issues"
+  },
+  "homepage": "https://github.com/nodef/extra-npm.folders#readme"
+}
