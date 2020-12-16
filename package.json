@@ -1,6 +1,6 @@
 {
   "name": "@extra-npm/folders",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Folder structures used by NPM.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/nodef/extra-npm.folders#readme",
   "devDependencies": {
-    "@extra-npm/config": "^1.0.0"
+    "@extra-npm/config": "^1.0.1"
   }
 }
